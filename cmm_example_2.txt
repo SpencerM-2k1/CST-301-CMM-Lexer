@@ -1,0 +1,12 @@
+int n = 0;
+int i = 1;
+
+while (n < 10)
+{
+    write i;
+    i = i * -2;
+    if (i > 0)
+    {
+        n = n + 1;
+    }
+}
