@@ -1,6 +1,6 @@
 # C-- Lexer by Spencer Meren
 
-Original grammar file provided by GCU Professor Fabio Marcos De Abreu Santos.
+Original grammar file provided by GCU Professor Fabio Marcos De Abreu Santos (see CST-301-RS-T7-C--Grammar.docx).
 
 # Execution
 
